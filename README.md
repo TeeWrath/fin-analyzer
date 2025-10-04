@@ -1,0 +1,2 @@
+# A simple analyzer
+This analyzes simple stocks, companies and their exchange information extracted from texts. It uses entity ruler, matchers and patterns to make deciison. Built using Python and spaCy library.
